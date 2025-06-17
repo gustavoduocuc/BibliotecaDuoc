@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/gustavo.dominguez/NetBeansProjects/BibliotecaDuoc/src/com/bibliotecaduoc/app/BibliotecaDuoc.java</file>
+            <file>file:/Users/gustavo.dominguez/NetBeansProjects/BibliotecaDuoc/src/com/bibliotecaduoc/controller/LibraryController.java</file>
+            <file>file:/Users/gustavo.dominguez/NetBeansProjects/BibliotecaDuoc/src/com/bibliotecaduoc/util/UserPrompter.java</file>
+            <file>file:/Users/gustavo.dominguez/NetBeansProjects/BibliotecaDuoc/src/com/bibliotecaduoc/model/Book.java</file>
+            <file>file:/Users/gustavo.dominguez/NetBeansProjects/BibliotecaDuoc/src/com/bibliotecaduoc/util/InputValidator.java</file>
+            <file>file:/Users/gustavo.dominguez/NetBeansProjects/BibliotecaDuoc/src/com/bibliotecaduoc/exception/InvalidCSVFormatException.java</file>
+            <file>file:/Users/gustavo.dominguez/NetBeansProjects/BibliotecaDuoc/src/com/bibliotecaduoc/util/csv/CSVContentExtractor.java</file>
+        </group>
+    </open-files>
+</project-private>
